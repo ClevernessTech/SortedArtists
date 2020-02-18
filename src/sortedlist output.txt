@@ -1,0 +1,65 @@
+5 ROXANNE                                                      "Arizona Zervas"     9144336         https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK
+28 "everything i wanted"                                        "Billie Eilish"      5538223         https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ
+41 "My Oh My (feat. DaBaby)"                                    "Camila Cabello"     4525444         https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K
+36 "Say So"                                                     "Doja Cat"           4757364         https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ
+38 "No Idea"                                                    "Don Toliver"        4705000         https://open.spotify.com/track/3VyjsVV24RmBIbWJAeUJNu
+31 "Don't Start Now"                                            "Dua Lipa"           5143850         https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg
+56 "Watermelon Sugar"                                           "Harry Styles"       3949802         https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY
+34 "Adore You"                                                  "Harry Styles"       4788395         https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7
+27 "What A Man Gotta Do"                                        "Jonas Brothers"     5637121         https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd
+64 Robbery                                                      "Juice WRLD"         3576885         https://open.spotify.com/track/6Hj9jySrnFppAI0sEMCZpJ
+62 "Lucid Dreams"                                               "Juice WRLD"         3783201         https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR
+14 "Bandit (with YoungBoy Never Broke Again)"                   "Juice WRLD"         6400242         https://open.spotify.com/track/6Gg1gjgKi2AK4e0qzsR7sd
+17 Yummy                                                        "Justin Bieber"      6290246         https://open.spotify.com/track/41L3O37CECZt3N7ziG2z7l
+54 Tusa                                                         "KAROL G"            4053669         https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY
+50 "Someone You Loved"                                          "Lewis Capaldi"      4163887         https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf
+43 Woah                                                         "Lil Baby"           4489675         https://open.spotify.com/track/598yNsG1JFrGd4n2kMoz7F
+40 "Sum 2 Prove"                                                "Lil Baby"           4639157         https://open.spotify.com/track/2u3EyuCqqV31woqGvO9LBz
+19 "Futsal Shuffle 2020"                                        "Lil Uzi Vert"       6219042         https://open.spotify.com/track/2Ec33AVlkTTq8BHFgBTdQs
+60 Hands                                                        "Mac Miller"         3806058         https://open.spotify.com/track/6CrnvqCxBKVWahSiQwOesM
+57 "Once A Day"                                                 "Mac Miller"         3943113         https://open.spotify.com/track/26G5nmIx7Yvq79bIIluyZV
+51 "That's On Me"                                               "Mac Miller"         4137314         https://open.spotify.com/track/0udOCZp7yk0Ml92C0k8H8D
+46 Surf                                                         "Mac Miller"         4424533         https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR
+33 Everybody                                                    "Mac Miller"         5051600         https://open.spotify.com/track/1OuN92HcVG6NVpWbeESNB3
+30 Woods                                                        "Mac Miller"         5268900         https://open.spotify.com/track/3Qa944OTMZkg8DHjET8JQv
+23 "Hand Me Downs"                                              "Mac Miller"         5922209         https://open.spotify.com/track/2Yv2mHzr5AQavVdwQjEokV
+21 Complicated                                                  "Mac Miller"         5940290         https://open.spotify.com/track/3WfSNAoj2D8C9noPSGZZFM
+16 "I Can See"                                                  "Mac Miller"         6356883         https://open.spotify.com/track/3R8CyhJfVjvgIROd5RSGhQ
+11 Circles                                                      "Mac Miller"         7124530         https://open.spotify.com/track/4jXl6VtkFFKIt3ycUQc5LT
+6 "Blue World"                                                 "Mac Miller"         7899988         https://open.spotify.com/track/2hwOoMtWPtTSSn6WHV7Vp5
+4 "Good News"                                                  "Mac Miller"         11115754        https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY
+58 Memories                                                     "Maroon 5"           3898273         https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM
+49 "Sunflower - Spider-Man: Into the Spider-Verse"              "Post Malone"        4166273         https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY
+9 Circles                                                      "Post Malone"        7232553         https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb
+26 "High Fashion (feat. Mustard)"                               "Roddy Ricch"        5752677         https://open.spotify.com/track/07KXEDMj78x68D884wgVEm
+1 "The Box"                                                    "Roddy Ricch"        24118640        https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I
+48 "Lose You To Love Me"                                        "Selena Gomez"       4232127         https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi
+39 Rare                                                         "Selena Gomez"       4659516         https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19
+63 Heartless                                                    "The Weeknd"         3584501         https://open.spotify.com/track/57vxBYXtHMk6H1aD29V7PU
+15 "Blinding Lights"                                            "The Weeknd"         6375572         https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD
+13 "Dance Monkey"                                               "Tones and I"        6565240         https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku
+52 "HIGHEST IN THE ROOM"                                        "Travis Scott"       4123600         https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW
+10 Falling                                                      "Trevor Daniel"      7209521         https://open.spotify.com/track/4TnjEaWOeW0eKTKIEvJyCa
+8 Suicidal                                                     "YNW Melly"          7452633         https://open.spotify.com/track/1iSqfoUFnQwV0QW1EfUit8
+32 SUGAR                                                        BROCKHAMPTON         5084244         https://open.spotify.com/track/6U0FIYXCQ3TGrk4tFpLrEA
+47 "Black Swan"                                                 BTS                  4389753         https://open.spotify.com/track/24NuEDgyRIljwSyY0lsr7b
+37 VIBEZ                                                        DaBaby               4716679         https://open.spotify.com/track/0fySG6A6qLE8IvDpayb5bM
+29 "TOES (feat. Lil Baby & Moneybagg Yo)"                       DaBaby               5282524         https://open.spotify.com/track/2FvD20Z8aoWIePi7PoN8sG
+7 BOP                                                          DaBaby               7819132         https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN
+61 Marsh                                                        Eminem               3802321         https://open.spotify.com/track/34d7sGX6WUqq8f04e7CSNF
+59 "Lock It Up (feat. Anderson .Paak)"                          Eminem               3896425         https://open.spotify.com/track/1qwMkkRiD5jqLeUUjfgblh
+53 "No Regrets (feat. Don Toliver)"                             Eminem               4065478         https://open.spotify.com/track/1lO9CZo6eDrOy0S7khgryG
+45 "Leaving Heaven (feat. Skylar Grey)"                         Eminem               4482016         https://open.spotify.com/track/5CpsIb7SMFHjmAG8RvIWfq
+44 "Premonition - Intro"                                        Eminem               4483648         https://open.spotify.com/track/7ccTcabbJlCJiIqtrSSwBk
+42 "In Too Deep"                                                Eminem               4516931         https://open.spotify.com/track/7Dj2wqPYXfSRFwa6qyOztr
+25 "Those Kinda Nights (feat. Ed Sheeran)"                      Eminem               5814562         https://open.spotify.com/track/0VSzREd1OjEWJ9tXoFHRQH
+24 Darkness                                                     Eminem               5835689         https://open.spotify.com/track/5SiZJoLXp3WOl3J4C8IK0d
+22 "You Gon’ Learn (feat. Royce Da 5'9"" & White Gold)"         Eminem               5936909         https://open.spotify.com/track/0GQ5bFTVFFKpwNPc7KwQnB
+20 "Unaccommodating (feat. Young M.A)"                          Eminem               5944768         https://open.spotify.com/track/0q2vG0UVuy6ajjcpkQHdZM
+2 "Godzilla (feat. Juice WRLD)"                                Eminem               15885437        https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ
+3 "Life Is Good (feat. Drake)"                                 Future               15018838        https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc
+12 "You should be sad"                                          Halsey               7024529         https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK
+55 "OUT WEST (feat. Young Thug)"                                JACKBOYS             3992080         https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw
+65 Eleven                                                       Khalid               3575393         https://open.spotify.com/track/1ToprX3cpBiXoAe5eNSk74
+18 "Ballin' (with Roddy Ricch)"                                 Mustard              6252784         https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY
+35 "hot girl bummer"                                            blackbear            4767460         https://open.spotify.com/track/7aiClxsDWFRQ0Kzk5KI5ku
