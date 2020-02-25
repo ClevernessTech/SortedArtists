@@ -1,15 +1,13 @@
-/* Starting code for Assignment 1
+/* Starting code for Assignment 1 Version 2
  * Student: Jose Soto
  * CISC 3130-MY9
  * Brooklyn College, Spring 2020
  *
- * Took US based list, had issues with inputting lines that had multiple commas, as initial attempts were using the
- * commas separating the data to split lines but many artist names in this list starting at 68 have commas in the artist
- * field.  Truncated the updated list to 65 to get the concept going.
+ * Used the opencsv-5.1.jar to do the CSV parsing when inputting the csv files, which have had the titles edited out
+ * Apache commons-lang3-3.9.jar dependency is required.
  */
 import com.opencsv.CSVReader;
 import com.opencsv.exceptions.CsvValidationException;
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -116,7 +114,7 @@ class SortedArtists<size> {
     public static void main(String [ ] args) {
         SortedArtists artistNames = new SortedArtists();
         String csvFile = "C:\\Users\\franc\\IdeaProjects\\SortedArtists\\src\\regional-us-weekly-2020-01-17--2020-01-24.csv";
-        int counter = 0, size = 65; //counter is for incrementing in while loop, size is size of data from the file
+        int counter = 0, size = 200; //counter is for incrementing in while loop, size is size of data from the file
 
         Single[] linkArray = new Single[size]; //array of type Single to hold values that are being inserted into linked list artistNames during loop
         try {
