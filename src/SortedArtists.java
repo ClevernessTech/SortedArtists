@@ -7,6 +7,9 @@
  * commas separating the data to split lines but many artist names in this list starting at 68 have commas in the artist
  * field.  Truncated the updated list to 65 to get the concept going.
  */
+import com.opencsv.CSVReader;
+import com.opencsv.exceptions.CsvValidationException;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -37,7 +40,7 @@ class Single { //Single will take in all the elements provided in the csv file
 }//end of Single class
 
 /* The List SortedArtists is composed of a series of artist names */
-class SortedArtists {
+class SortedArtists<size> {
     private Single first;
     private Single last;
 
@@ -113,21 +116,21 @@ class SortedArtists {
     public static void main(String [ ] args) {
         SortedArtists artistNames = new SortedArtists();
         String csvFile = "C:\\Users\\franc\\IdeaProjects\\SortedArtists\\src\\regional-us-weekly-2020-01-17--2020-01-24.csv";
-        String inputLine; //For storing temporarily input line from file
         int counter = 0, size = 65; //counter is for incrementing in while loop, size is size of data from the file
 
         Single[] linkArray = new Single[size]; //array of type Single to hold values that are being inserted into linked list artistNames during loop
         try {
-            Scanner inputStream = new Scanner(new FileReader(csvFile));
-            inputLine = inputStream.nextLine(); //Feeds first line before loop to remove header line
-            while (inputStream.hasNextLine()) {
-                inputLine = inputStream.nextLine();
-                String[] tempArray = inputLine.split(",");
-                int tempPosition = Integer.parseInt(tempArray[0]);
-                String tempTrack = tempArray[1];
-                String tempArtist = tempArray[2];
-                int tempStreams = Integer.parseInt(tempArray[3]);
-                String tempUrl = tempArray[4];
+
+            CSVReader reader = new CSVReader(new FileReader(csvFile));
+            String[] inputLine;
+
+            while ((inputLine = reader.readNext()) != null) {
+
+                int tempPosition = Integer.parseInt(inputLine[0]);
+                String tempTrack = inputLine[1];
+                String tempArtist = inputLine[2];
+                int tempStreams = Integer.parseInt(inputLine[3]);
+                String tempUrl = inputLine[4];
                 /*tempPosition and tempStreams are using parseInt as all data split into the tempArray of type String are
                 * made into String types, for ease of us they are converted back into Int to make manipulating them
                 * easier if necessary.  The other temp files are just placeholders to later insert, as we know from the
@@ -140,8 +143,8 @@ class SortedArtists {
                 * of Single into current position of linkArray*/
                 counter++;
             }
-            inputStream.close();//stops reading file after while loop
-        }catch (FileNotFoundException e) {//Error handling incase wrong file or file path is called
+            reader.close();//stops reading file after while loop
+        }catch (IOException | CsvValidationException e) {
             e.printStackTrace();
         }catch(NumberFormatException ex) {//Error handling incase wrong data is run through parseInt
             System.out.println("Error. Please input a valid number :-");
